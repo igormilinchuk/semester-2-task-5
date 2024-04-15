@@ -1,9 +1,0 @@
-[
-    { "subject_name": "English language", "day_of_week": "Monday" },
-    { "subject_name": "Basics of working with neural networks", "day_of_week": "Tuesday" },
-    { "subject_name": "Fundamentals of programming", "day_of_week": "Wednesday" },
-    { "subject_name": "Mathematical analysis", "day_of_week": "Thursday" },
-    { "subject_name": "Ukrainian language", "day_of_week": "Friday" },
-    { "subject_name": "Information and communication technologies", "day_of_week": "Saturday" },
-    { "subject_name": "Critical thinking", "day_of_week": "Sunday" }
-]
